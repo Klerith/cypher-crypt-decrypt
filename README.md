@@ -5,3 +5,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
+
+### Deployed APP
+https://objective-lichterman-e28d73.netlify.app/
